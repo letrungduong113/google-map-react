@@ -1,0 +1,8 @@
+.background-title button {
+  background: #E8B2B2;
+}
+
+.scroll {
+  height: 110px;
+  overflow: auto;
+}
